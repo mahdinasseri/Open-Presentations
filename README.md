@@ -3,7 +3,7 @@
 ## Introduction:
 Welcome to my GitHub repository, where I'm excited to share a treasure trove of over a decade's worth of educational slides, all stemming from my voluntary efforts within Iran's vibrant technology ecosystem, particularly the startup community. These slides cover a wide array of topics related to entrepreneurship, startups, business models, marketing, and most importantly, data analysis. Almost all of the content is in Persian, reflecting my commitment to fostering knowledge exchange in the local language.
 
-In the past, I shared these slides on SlideShare, but I've now decided to make them freely available to the public on GitHub for a more collaborative and accessible learning experience. The repository is not just a personal archive but a testament to the wealth of knowledge and insights gathered over the years.
+In the past, I shared these slides on [SlideShare](https://www.slideshare.net/mahdinasseri/presentations)., but I've now decided to make them freely available to the public on GitHub for a more collaborative and accessible learning experience. The repository is not just a personal archive but a testament to the wealth of knowledge and insights gathered over the years.
 
 ## What's Inside:
 This repository comprises a diverse collection of slide decks, each delving into a different facet of the tech startup world. From practical entrepreneurship guidance to intricate data analysis techniques, you'll find an array of resources to aid your journey in the entrepreneurial landscape. The slides serve as a valuable resource for those looking to explore and expand their knowledge in Persian.
