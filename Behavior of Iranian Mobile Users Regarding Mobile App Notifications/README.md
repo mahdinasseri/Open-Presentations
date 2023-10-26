@@ -7,3 +7,5 @@ This presentation highlights the nuanced dynamics of notification engagement, of
 For a detailed look at the original research, you can access the full article by following this link: [Read the Original Article](https://vrgl.ir/fmkjn).
 
 Join me in unraveling the intriguing world of user behavior and notifications in the Iranian mobile landscape.
+
+[Mahdi Nasseri](mailto:mahdi.nasseri@gmail.com)

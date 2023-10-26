@@ -4,4 +4,6 @@ This slide deck delves into the intriguing journey of generating innovative idea
 
 The core essence of this presentation is as relevant today as it was then: the process of shaping raw concepts into viable startup ideas. While some of the specific examples in this presentation may no longer be current, the fundamental principles of ideation and innovation endure as essential building blocks for aspiring entrepreneurs.
 
-Join me on this exploration of the creative and strategic processes that guide the transformation of "nothing" into a powerful startup idea. Let's embark on a journey into the heart of ideation and innovation.
+Join me on this exploration of the creative and strategic processes that guide the transformation of **nothing** into a powerful **startup idea**. Let's embark on a journey into the heart of ideation and innovation.
+
+[Mahdi Nasseri](mailto:mahdi.nasseri@gmail.com)
