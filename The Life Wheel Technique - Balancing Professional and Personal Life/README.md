@@ -15,4 +15,4 @@ This presentation is a valuable resource for anyone seeking to enhance their wel
 
 Join me in exploring the Life Wheel Technique and unlocking the potential for a more balanced and enriched life.
 
-![The Life Wheel Technique](/lifewheel.png)
+![The Life Wheel Technique](https://github.com/mahdinasseri/MyPresentations/blob/main/The%20Life%20Wheel%20Technique%20-%20Balancing%20Professional%20and%20Personal%20Life/lifewheel.png)
