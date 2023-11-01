@@ -14,3 +14,5 @@ Striking a balance between one's professional and personal life is an ongoing ch
 This presentation is a valuable resource for anyone seeking to enhance their well-being and find equilibrium between their professional and personal responsibilities.
 
 Join me in exploring the Life Wheel Technique and unlocking the potential for a more balanced and enriched life.
+
+![The Life Wheel Technique](The Life Wheel Technique - Balancing Professional and Personal Life.png)
