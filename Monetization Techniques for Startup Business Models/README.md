@@ -1,4 +1,4 @@
-# Presentation Title: "Monetization Techniques for Startup Business Models"
+# Presentation Title: Monetization Techniques for Startup Business Models
 
 In this compelling presentation, I delve into the world of startups and explore the intricate mechanisms of monetization. The title, "Monetization Techniques for Startup Business Models," encapsulates the essence of the discussion.
 
