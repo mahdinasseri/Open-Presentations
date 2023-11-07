@@ -1,4 +1,4 @@
-# Presentation Title: Crafting Professional Presentations: Five Key Insights
+# Crafting Professional Presentations: Five Key Insights
 
 In this insightful presentation, I provide a comprehensive guide for designing and delivering professional presentations.
 
